@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3 align="center">Hello, I'm Hwang Jaedong 👋</h3>
+<h3 align="center">Hello, I'm Jaedong Hwang 👋</h3>
 <h4 align="center">Software Engineering Student @ Sejong Univ., Seoul, Republic of Korea 🇰🇷</h4>
 
 <br>
