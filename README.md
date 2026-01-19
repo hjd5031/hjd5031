@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🚀 <b>Co-founder of Indie Game Team<a href="https://store.steampowered.com/search/?developer=TeamHJD" target="_blank">
+  🚀 <b>Co-founder of Indie Game Team<a href="https://store.steampowered.com/search/?developer=TeamHJD" target="blank">
   <img src="https://img.shields.io/badge/TeamHJD-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a></b>
 </p>
