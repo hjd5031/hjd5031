@@ -70,6 +70,29 @@
 </div>
 <br>
 </details>
+
+<br>
+<details open>
+<summary align="center">
+  <b>🦾 OpenGL Project: Robot Arm Simulation</b>
+</summary>
+<br>
+<div align="center">
+  <img src="[여기에_GIF_주소_붙여넣기](https://github.com/user-attachments/assets/ec713325-3d6b-40a7-8bea-8ef1bb432c93)" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+  
+  <br><br>
+  
+  <p>
+    Implemented <b>Hierarchical Modeling</b> & <b>Matrix Transformations</b><br>
+    using <b>C++</b> and <b>OpenGL (Legacy/Modern)</b>.
+  </p>
+</div>
+<br>
+</details>
+
+
+<br>
+
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hjd5031&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
