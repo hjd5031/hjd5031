@@ -101,9 +101,7 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
-  <br>
-
-  <img src = "https://img.shields.io/badge/HLSL&logo=HLSL&logoColor=white"/>
+  
   <br><br>
   <i>"Developing High-End Graphics & Gameplay Mechanics"</i>
 </div>
