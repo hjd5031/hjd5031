@@ -72,43 +72,44 @@
 </details>
 
 <br>
+<h3 align="center">Graphics Engineering Projects 💻</h3>
 
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <details open>
-        <summary align="center">
-          <b>🦾 OpenGL Robot Arm</b>
-        </summary>
-        <br>
-        <div align="center">
-          <img src="https://github.com/user-attachments/assets/2844c65c-f907-426c-a074-16414057a519" width="95%" style="border-radius: 10px;" />
+      <div align="center">
+        <details open>
+          <summary>
+            <b>🦾 OpenGL Robot Arm</b>
+          </summary>
+          <br>
+          <img src="https://github.com/user-attachments/assets/de5bbfcc-7989-42ad-8cfc-87ca30e76389" width="100%" style="border-radius: 10px;" />
           <br><br>
-          <p align="center">
+          <p>
             Implemented <b>Hierarchical Modeling</b><br>
             & <b>Matrix Transformations</b><br>
             using <b>C++ / OpenGL</b>.
           </p>
-        </div>
-      </details>
+        </details>
+      </div>
     </td>
-
+    <br>
     <td width="50%" valign="top" style="border: none;">
-      <details open>
-        <summary align="center">
-          <b>🔮 GPU-Based Ray Tracer</b>
-        </summary>
-        <br>
-        <div align="center">
-          <img src="https://github.com/user-attachments/assets/de5bbfcc-7989-42ad-8cfc-87ca30e76389" width="95%" style="border-radius: 10px;" />
+      <div align="center">
+        <details open>
+          <summary>
+            <b>🔮 GPU-Based Ray Tracer</b>
+          </summary>
+          <br>
+          <img src="(https://github.com/user-attachments/assets/de5bbfcc-7989-42ad-8cfc-87ca30e76389" width="100%" style="border-radius: 10px;" />
           <br><br>
-          <p align="center">
+          <p>
             Implemented <b>Ray-Sphere Intersection</b>,<br>
             <b>Shadows</b> & <b>Multiple Reflections</b><br>
             in <b>GLSL Fragment Shader</b>.
           </p>
-        </div>
-      </details>
+        </details>
+      </div>
     </td>
   </tr>
 </table>
