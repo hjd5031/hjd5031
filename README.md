@@ -90,10 +90,10 @@
 
 <p><b>TeamHJD</b></p>
 <a href="mailto:teamhjd21@gmail.com">
-  <img src="https://img.shields.io/badge/Team%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://store.steampowered.com/search/?developer=TeamHJD" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/TeamHJD-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 
 </div>
