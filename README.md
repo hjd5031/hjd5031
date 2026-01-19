@@ -103,7 +103,7 @@
 
   <br>
 
-  <img src = "https://img.shields.io/badge/&logo=HLSL&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/HLSL&logo=HLSL&logoColor=white"/>
   <br><br>
   <i>"Developing High-End Graphics & Gameplay Mechanics"</i>
 </div>
