@@ -72,23 +72,46 @@
 </details>
 
 <br>
-<details open>
-<summary align="center">
-  <b>🦾 OpenGL Project: Robot Arm Simulation</b>
-</summary>
-<br>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2844c65c-f907-426c-a074-16414057a519" width="40%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
-  
-  <br><br>
-  
-  <p>
-    Implemented <b>Hierarchical Modeling</b> & <b>Matrix Transformations</b><br>
-    using <b>C++</b> and <b>OpenGL (Legacy/Modern)</b>.
-  </p>
-</div>
-<br>
-</details>
+
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <details open>
+        <summary align="center">
+          <b>🦾 OpenGL Robot Arm</b>
+        </summary>
+        <br>
+        <div align="center">
+          <img src="https://github.com/user-attachments/assets/2844c65c-f907-426c-a074-16414057a519" width="95%" style="border-radius: 10px;" />
+          <br><br>
+          <p align="center">
+            Implemented <b>Hierarchical Modeling</b><br>
+            & <b>Matrix Transformations</b><br>
+            using <b>C++ / OpenGL</b>.
+          </p>
+        </div>
+      </details>
+    </td>
+
+    <td width="50%" valign="top" style="border: none;">
+      <details open>
+        <summary align="center">
+          <b>🔮 GPU-Based Ray Tracer</b>
+        </summary>
+        <br>
+        <div align="center">
+          <img src="여기에_레이트레이서_이미지_주소_넣기" width="95%" style="border-radius: 10px;" />
+          <br><br>
+          <p align="center">
+            Implemented <b>Ray-Sphere Intersection</b>,<br>
+            <b>Shadows</b> & <b>Multiple Reflections</b><br>
+            in <b>GLSL Fragment Shader</b>.
+          </p>
+        </div>
+      </details>
+    </td>
+  </tr>
+</table>
 
 
 <br>
