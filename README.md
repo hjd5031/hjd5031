@@ -3,7 +3,7 @@
 <div align="center">
 
 <h3 align="center">Hello, I'm Jaedong Hwang 👋</h3>
-<h4 align="center">Software Engineering Student @ Sejong Univ., Seoul, Republic of Korea 🇰🇷</h4>
+<h4 align="center">Software Engineering Student @ Sejong Univ., Seoul, Republic of Korea 🇰🇷<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20" /></h4>
 
 <br>
 
