@@ -27,7 +27,7 @@
 
 <details>
 <summary align="center">
-  <b>🛠️ Tech Stack (Click to Expand)</b>
+  <b>🤖 Tech Stack (Click to Expand)</b>
 </summary>
 
 <br>
@@ -37,19 +37,52 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
 
 <br>
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+<img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+<br>
+
+
+
+</div>
+<br>
+</details>
+
+<br>
+
+<details>
+<summary align="center">
+  <b>🛠️ Tools (Click to Expand)</b>
+</summary>
+
+<br>
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>
 <img src="https://img.shields.io/badge/Perforce-1E1E1E?style=for-the-badge&logo=perforce&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src ="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perforce-1E1E1E?style=for-the-badge&logo=perforce&logoColor=white" />
+<img src = "https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 </div>
 <br>
@@ -137,8 +170,16 @@
 <a href="mailto:hjd01034215031@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/jae-dong-hwang-67198b382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href = "https://www.youtube.com/channel/UCSWO0PIilr8vM8QEkz2buFg">
   <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<br>
+<a href = "https://music.apple.com/profile/hjd5031">
+  <img src = "https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/>
 </a>
 
 <br><br>
