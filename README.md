@@ -100,7 +100,7 @@
             <b>🔮 GPU-Based Ray Tracer</b>
           </summary>
           <br>
-          <img src="(https://github.com/user-attachments/assets/de5bbfcc-7989-42ad-8cfc-87ca30e76389" width="100%" style="border-radius: 10px;" />
+          <img src="https://github.com/user-attachments/assets/de5bbfcc-7989-42ad-8cfc-87ca30e76389" width="100%" style="border-radius: 10px;" />
           <br><br>
           <p>
             Implemented <b>Ray-Sphere Intersection</b>,<br>
