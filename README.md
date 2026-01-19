@@ -83,7 +83,7 @@
             <b>🦾 OpenGL Robot Arm</b>
           </summary>
           <br>
-          <img src="https://github.com/user-attachments/assets/de5bbfcc-7989-42ad-8cfc-87ca30e76389" width="100%" style="border-radius: 10px;" />
+          <img src="https://github.com/user-attachments/assets/2844c65c-f907-426c-a074-16414057a519" width="100%" style="border-radius: 10px;" />
           <br><br>
           <p>
             Implemented <b>Hierarchical Modeling</b><br>
@@ -93,7 +93,6 @@
         </details>
       </div>
     </td>
-    <br>
     <td width="50%" valign="top" style="border: none;">
       <div align="center">
         <details open>
