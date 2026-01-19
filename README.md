@@ -70,7 +70,11 @@
 </div>
 <br>
 </details>
-
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hjd5031&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjd5031&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
 <br><br>
 
 <hr style="border: none; height: 1px; background-color: #333; opacity: 0.3;">
