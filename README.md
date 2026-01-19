@@ -12,7 +12,9 @@
   My studies focus on <b>Real-time Rendering</b> applications in<br>
   <b>Game Development</b> and <b>Virtual Production</b>.
 </p>
-
+<p align="center">
+  🌏 <b>Fluent in English</b> (Educated in Hong Kong under Canadian Curriculum)
+</p>
 <p align="center">
   🚀 <b>Co-founder of <a href="https://store.steampowered.com/search/?developer=TeamHJD" target="blank">
   <img src="https://img.shields.io/badge/TeamHJD-000000?style=for-the-badge&logo=steam&logoColor=white" />
