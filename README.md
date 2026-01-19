@@ -78,7 +78,7 @@
 </summary>
 <br>
 <div align="center">
-  <img src="[여기에_GIF_주소_붙여넣기](https://github.com/user-attachments/assets/ec713325-3d6b-40a7-8bea-8ef1bb432c93)" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/user-attachments/assets/ec713325-3d6b-40a7-8bea-8ef1bb432c93" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
   
   <br><br>
   
