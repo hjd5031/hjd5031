@@ -78,7 +78,7 @@
 </summary>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2844c65c-f907-426c-a074-16414057a519" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/user-attachments/assets/2844c65c-f907-426c-a074-16414057a519" width="40%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" />
   
   <br><br>
   
