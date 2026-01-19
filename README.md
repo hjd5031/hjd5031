@@ -85,6 +85,9 @@
 <a href="mailto:hjd01034215031@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href = "https://www.youtube.com/channel/UCSWO0PIilr8vM8QEkz2buFg">
+  <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 <br><br>
 
