@@ -158,7 +158,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hjd5031&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjd5031&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
   <br>
-  <img src="https://raw.githubusercontent.com/hjd5031/hjd5031/output/metrics.plugin.isocalendar.fullyear.svg" >
+  <img src="![](./profile-3d-contrib/profile-gitblock.svg)" >
 </div>
 <br><br>
 
