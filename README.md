@@ -190,7 +190,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hjd5031&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjd5031&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
   
-  <br><br> <img src="./profile-3d-contrib/profile-gitblock.svg" width="50%" />
+  <br><br> <img src="./profile-3d-contrib/profile-gitblock.svg" width="50%" loading = "lazy" />
   
 </div>
 <br><br>
