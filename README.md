@@ -192,7 +192,7 @@
   
   <br> 
   
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="60%" loading = "lazy" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="63%" loading = "lazy" />
   
 </div>
 <br><br>
