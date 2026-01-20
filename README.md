@@ -110,7 +110,12 @@
 </details>
 
 <br>
-<h3 align="center">Graphics Engineering Projects 💻</h3>
+
+<details open>
+  <summary align="center">
+  <h3 align="center">OpenGL Projects 💻</h3>
+</summary>
+
 
 <table width="100%" align = "center" style="border: none; border-collapse: collapse;">
   
@@ -182,7 +187,7 @@
   </tr>
 
 </table>
-
+</details>
 
 <br>
 
