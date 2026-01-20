@@ -111,7 +111,7 @@
 <br>
 <h3 align="center">Graphics Engineering Projects 💻</h3>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
+<table width="100%" align = "center" style="border: none; border-collapse: collapse;">
   
   <tr>
     <td width="50%" valign="top" style="border: none; padding: 5px;">
