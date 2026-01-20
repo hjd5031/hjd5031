@@ -112,13 +112,12 @@
 <h3 align="center">Graphics Engineering Projects 💻</h3>
 
 <table width="100%" style="border: none; border-collapse: collapse;">
+  
   <tr>
-    <td width="50%" valign="top" style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 5px;">
       <div align="center">
         <details open>
-          <summary>
-            <b>🦾 OpenGL Robot Arm</b>
-          </summary>
+          <summary><b>🦾 OpenGL Robot Arm</b></summary>
           <br>
           <img src="https://github.com/user-attachments/assets/2844c65c-f907-426c-a074-16414057a519" width="100%" style="border-radius: 10px;" />
           <br><br>
@@ -130,12 +129,10 @@
         </details>
       </div>
     </td>
-    <td width="50%" valign="top" style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 5px;">
       <div align="center">
         <details open>
-          <summary>
-            <b>🔮 GPU-Based Ray Tracer</b>
-          </summary>
+          <summary><b>🔮 GPU-Based Ray Tracer</b></summary>
           <br>
           <img src="https://github.com/user-attachments/assets/de5bbfcc-7989-42ad-8cfc-87ca30e76389" width="100%" style="border-radius: 10px;" />
           <br><br>
@@ -148,6 +145,41 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 5px;">
+      <div align="center">
+        <br>
+        <details open>
+          <summary><b>🗿 OBJ Model Viewer</b></summary>
+          <br>
+          <img src="https://github.com/user-attachments/assets/2e620c69-8161-43b7-8e79-5d2f3f45cd4e" width="100%" style="border-radius: 10px;" />
+          <br><br>
+          <p>
+            Developed <b>Custom OBJ Parser</b>.<br>
+            Implemented <b>Phong Shading</b> with<br>
+            Calculated <b>Vertex Normals</b>.
+          </p>
+        </details>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 5px;">
+      <div align="center">
+        <br>
+        <details open>
+          <summary><b>🌊 Interactive Waving Plane</b></summary>
+          <br>
+          <img src="https://github.com/user-attachments/assets/a9679ab9-545d-49da-985d-2b2c232f32c4" width="100%" style="border-radius: 10px;" />
+          <br><br>
+          <p>
+            Implemented <b>Vertex Manipulation</b> in GLSL<br>
+            for <b>Sine Wave Animation</b>.<br>
+            Applied <b>Height-Based Color Blending</b>.
+          </p>
+        </details>
+      </div>
+    </td>
+  </tr>
+
 </table>
 
 
