@@ -190,6 +190,78 @@
 </details>
 
 <br>
+<hr style="border: none; height: 1px; background-color: #333; opacity: 0.3;">
+<br>
+
+<details open>
+  <summary align="center">
+  <h3 align="center">OpenCV Projects 👁️</h3>
+</summary>
+
+
+<table width="100%" style="border: none; border-collapse: collapse;">
+  
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 5px;">
+      <div align="center">
+        <details open>
+          <summary style="text-align: center; list-style: none; cursor: pointer;">
+            <b>⚡ Fastest Mean Filter (O(1))</b>
+          </summary>
+          <br>
+          <img src="https://github.com/user-attachments/assets/a04857e8-c2b9-47e6-97a4-7b82a0fb051e" width="100%" style="border-radius: 10px;" />
+          <br><br>
+          <p>
+            Implemented <b>Summed-Area Table</b><br>
+            (Integral Image) to achieve <b>O(1)</b><br>
+            filtering speed regardless of kernel size.
+          </p>
+        </details>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 5px;">
+      <div align="center">
+        <details open>
+          <summary style="text-align: center; list-style: none; cursor: pointer;">
+            <b>🌈 Auto Color Image Alignment</b>
+          </summary>
+          <br>
+          <img src="https://github.com/user-attachments/assets/8ed18abb-a9db-4009-a669-60ece41b7243"" width="100%" style="border-radius: 10px;" />
+          <br><br>
+          <p>
+            Reconstructed RGB images from<br>
+            <b>Prokudin-Gorskii</b> glass plates using<br>
+            <b>Channel Correlation</b> & <b>Search Optimization</b>.
+          </p>
+        </details>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none; padding: 5px;">
+      <div align="center">
+        <br>
+        <details open>
+          <summary style="text-align: center; list-style: none; cursor: pointer;">
+            <b>🎨 Painterly Rendering (NPR)</b>
+          </summary>
+          <br>
+          <img src="https://github.com/user-attachments/assets/4be86231-597c-4c61-987a-ee9cc0360443" width="50%" style="border-radius: 10px;" />
+          <br><br>
+          <p>
+            Implemented <b>Hertzmann’s Algorithm</b>.<br>
+            Generated <b>Spline Strokes</b> based on<br>
+            <b>Image Gradients</b> & Multi-layer Grid.
+          </p>
+        </details>
+      </div>
+    </td>
+  </tr>
+
+</table>
+</details>
+
+<br>
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
