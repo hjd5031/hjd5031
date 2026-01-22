@@ -301,12 +301,16 @@
 
 <br><br>
 
-<p><b>TeamHJD</b></p>
-<a href="mailto:teamhjd21@gmail.com">
-  <img src="https://img.shields.io/badge/Team%20GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p><b><i>TeamHJD</i></b></p>
+
 <a href="https://store.steampowered.com/search/?developer=TeamHJD" target="_blank">
   <img src="https://img.shields.io/badge/TeamHJD-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+<a href = "https://www.youtube.com/@TEAMHJD">
+  <img src = "https://img.shields.io/badge/TeamHJD-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:teamhjd21@gmail.com">
+  <img src="https://img.shields.io/badge/TeamHJD-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
