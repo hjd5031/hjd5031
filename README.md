@@ -301,8 +301,9 @@
 
 <br><br>
 
-<p><b><i>TeamHJD</i></b></p>
-
+<p><b>Company</b></p>
+<img width="40%" alt="Image" src="https://github.com/user-attachments/assets/79f13056-aeb0-4ae0-ad27-26bec53e1ec1" />
+<br>
 <a href="https://store.steampowered.com/search/?developer=TeamHJD" target="_blank">
   <img src="https://img.shields.io/badge/TeamHJD-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
