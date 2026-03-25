@@ -296,6 +296,9 @@
 <a href = "https://music.apple.com/profile/hjd5031">
   <img src = "https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/>
 </a>
+<a href="https://velog.io/@hjd5031/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+</a>
 
 <br><br>
 
