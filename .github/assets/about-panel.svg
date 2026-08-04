@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+  <title id="title">About Jaedong Hwang</title>
+  <desc id="desc">Software engineering student focused on real-time rendering, game systems, and virtual production.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b14"/><stop offset=".52" stop-color="#0b1f36"/><stop offset="1" stop-color="#07101d"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#38d9c5"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#1f8fff" stop-opacity=".28"/><stop offset="1" stop-color="#1f8fff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#58a6ff" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="370" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="370" rx="24" fill="url(#grid)"/>
+  <circle cx="190" cy="184" r="270" fill="url(#glow)"/>
+  <path d="M22 22h52M22 22v52M1178 348h-52M1178 348v-52" fill="none" stroke="#58a6ff" stroke-opacity=".45" stroke-width="2"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="70" y="72" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="4">01 / PROFILE</text>
+    <text x="68" y="126" fill="#f0f6fc" font-size="40" font-weight="750">ABOUT ME</text>
+    <rect x="70" y="146" width="230" height="3" rx="2" fill="url(#accent)"/>
+    <text x="70" y="190" fill="#b7c9db" font-size="17" font-weight="500">I build interactive systems where</text>
+    <text x="70" y="218" fill="#b7c9db" font-size="17" font-weight="500">graphics, gameplay, and storytelling meet.</text>
+    <text x="70" y="270" fill="#71879d" font-size="12" font-weight="700" letter-spacing="2">CURRENT VECTOR</text>
+    <text x="70" y="298" fill="#38d9c5" font-size="15" font-weight="650">REAL-TIME RENDERING → VIRTUAL WORLDS</text>
+    <text x="70" y="332" fill="#566f86" font-size="11" letter-spacing="1.5">SEOUL, REPUBLIC OF KOREA</text>
+
+    <g transform="translate(500 58)">
+      <rect width="300" height="118" rx="14" fill="#0c1c2e" stroke="#254761"/>
+      <circle cx="34" cy="32" r="16" fill="#102e4d" stroke="#58a6ff"/>
+      <path d="M26 35h16M29 31l5-5 5 5" fill="none" stroke="#58a6ff" stroke-width="1.8"/>
+      <text x="62" y="30" fill="#71879d" font-size="10" font-weight="700" letter-spacing="2">EDUCATION</text>
+      <text x="28" y="72" fill="#e6edf3" font-size="17" font-weight="650">B.S. SOFTWARE ENGINEERING</text>
+      <text x="28" y="96" fill="#8fa5b9" font-size="13">Sejong University</text>
+    </g>
+    <g transform="translate(824 58)">
+      <rect width="306" height="118" rx="14" fill="#0c1c2e" stroke="#254761"/>
+      <circle cx="34" cy="32" r="16" fill="#0b3333" stroke="#38d9c5"/>
+      <circle cx="34" cy="32" r="7" fill="none" stroke="#38d9c5"/><path d="M34 19v6M34 39v6M21 32h6M41 32h6" stroke="#38d9c5"/>
+      <text x="62" y="30" fill="#71879d" font-size="10" font-weight="700" letter-spacing="2">CORE INTEREST</text>
+      <text x="28" y="72" fill="#e6edf3" font-size="17" font-weight="650">INTERACTIVE GRAPHICS</text>
+      <text x="28" y="96" fill="#8fa5b9" font-size="13">Rendering · shaders · systems</text>
+    </g>
+    <g transform="translate(500 196)">
+      <rect width="300" height="118" rx="14" fill="#0c1c2e" stroke="#254761"/>
+      <circle cx="34" cy="32" r="16" fill="#1b2440" stroke="#8b7cff"/>
+      <path d="M27 38V26l7-4 7 4v12l-7 4zM27 26l7 5 7-5M34 31v11" fill="none" stroke="#9d91ff" stroke-width="1.5"/>
+      <text x="62" y="30" fill="#71879d" font-size="10" font-weight="700" letter-spacing="2">BUILDING</text>
+      <text x="28" y="72" fill="#e6edf3" font-size="17" font-weight="650">GAME &amp; ENGINE SYSTEMS</text>
+      <text x="28" y="96" fill="#8fa5b9" font-size="13">Responsive, visual, real-time</text>
+    </g>
+    <g transform="translate(824 196)">
+      <rect width="306" height="118" rx="14" fill="#0c1c2e" stroke="#254761"/>
+      <circle cx="34" cy="32" r="16" fill="#132b3c" stroke="#6cb6ff"/>
+      <path d="M26 37l8-16 8 16zM29 33h10" fill="none" stroke="#6cb6ff" stroke-width="1.6"/>
+      <text x="62" y="30" fill="#71879d" font-size="10" font-weight="700" letter-spacing="2">VENTURE</text>
+      <text x="28" y="72" fill="#e6edf3" font-size="17" font-weight="650">TEAMHJD</text>
+      <text x="28" y="96" fill="#8fa5b9" font-size="13">Co-founder · game development</text>
+    </g>
+  </g>
+</svg>

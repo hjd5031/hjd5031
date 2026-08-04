@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="128" viewBox="0 0 1200 128" role="img" aria-labelledby="title desc">
+  <title id="title">Graphics and Rendering Lab</title><desc id="desc">OpenGL and GLSL projects covering transformations, ray tracing, model loading, and shader animation.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#091727"/><stop offset="1" stop-color="#0b2639"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#38d9c5"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="126" rx="18" fill="url(#bg)" stroke="#285879"/>
+  <path d="M390 64H1085" stroke="url(#a)" stroke-opacity=".28" stroke-dasharray="3 8"/><circle cx="1085" cy="64" r="5" fill="#38d9c5"/>
+  <g transform="translate(1016 64)" fill="none" stroke="#58a6ff" stroke-opacity=".55"><circle r="40"/><ellipse rx="40" ry="14"/><ellipse rx="40" ry="14" transform="rotate(60)"/><ellipse rx="40" ry="14" transform="rotate(120)"/></g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="42" y="42" fill="#58a6ff" font-size="10" font-weight="700" letter-spacing="3">LAB / A · 04 PROJECTS</text><text x="42" y="78" fill="#f0f6fc" font-size="27" font-weight="740">GRAPHICS &amp; RENDERING</text><text x="42" y="103" fill="#71879d" font-size="11" letter-spacing="1.8">OPENGL · GLSL · TRANSFORMATIONS · SHADERS</text><text x="1148" y="70" fill="#8fa5b9" font-size="20" text-anchor="end">↗</text></g>
+</svg>

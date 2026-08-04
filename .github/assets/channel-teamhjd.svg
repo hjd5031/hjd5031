@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">TeamHJD channels</title><desc id="desc">TeamHJD games, videos, and studio contact.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0b1728"/><stop offset="1" stop-color="#141d37"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#8b7cff"/><stop offset="1" stop-color="#38d9c5"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="110" rx="18" fill="url(#bg)" stroke="#4d4b86"/>
+  <circle cx="62" cy="56" r="28" fill="#25234f" stroke="#9d91ff"/><path d="M48 65l14-28 14 28-14 9zM52 61h20" fill="none" stroke="#eeeaff" stroke-width="1.7"/>
+  <path d="M420 56H1110" stroke="url(#a)" stroke-opacity=".25" stroke-dasharray="3 8"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="110" y="49" fill="#f0f6fc" font-size="23" font-weight="740">TEAMHJD</text><text x="110" y="75" fill="#71879d" font-size="11" letter-spacing="1.5">GAMES · VIDEOS · STUDIO CONTACT</text><text x="1140" y="62" fill="#a7a0d8" font-size="17" text-anchor="end">02 / STUDIO</text></g>
+</svg>

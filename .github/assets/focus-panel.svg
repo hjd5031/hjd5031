@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285" role="img" aria-labelledby="title desc">
+  <title id="title">Current focus</title>
+  <desc id="desc">C++, Unreal Engine, and Unity for high-end graphics and responsive gameplay systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07101d"/><stop offset=".52" stop-color="#0c2239"/><stop offset="1" stop-color="#07101d"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#38d9c5"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#58a6ff" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="285" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="285" rx="24" fill="url(#grid)"/>
+  <path d="M186 152H1014" stroke="url(#accent)" stroke-opacity=".36" stroke-width="2" stroke-dasharray="4 8"/>
+  <g fill="#38d9c5"><circle cx="186" cy="152" r="4"/><circle cx="600" cy="152" r="4"/><circle cx="1014" cy="152" r="4"/></g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="60" y="55" fill="#58a6ff" font-size="12" font-weight="700" letter-spacing="4">02 / CURRENT FOCUS</text>
+    <text x="1140" y="55" fill="#536d83" font-size="10" text-anchor="end" letter-spacing="2">FRAME PIPELINE · ACTIVE</text>
+
+    <g transform="translate(72 91)">
+      <rect width="310" height="126" rx="16" fill="#0a1726" stroke="#2b5d82"/>
+      <path d="M42 25l22 12v25L42 74 20 62V37z" fill="#0e3559" stroke="#58a6ff" stroke-width="1.6"/>
+      <text x="42" y="55" fill="#f0f6fc" font-size="17" font-weight="800" text-anchor="middle">C++</text>
+      <text x="92" y="46" fill="#f0f6fc" font-size="20" font-weight="700">C++</text>
+      <text x="92" y="68" fill="#71879d" font-size="10" font-weight="700" letter-spacing="1.7">PRIMARY LANGUAGE</text>
+      <text x="20" y="105" fill="#9bb0c2" font-size="12">Performance · systems · graphics</text>
+    </g>
+    <g transform="translate(445 91)">
+      <rect width="310" height="126" rx="16" fill="#0a1726" stroke="#2c6670"/>
+      <circle cx="43" cy="50" r="25" fill="#0b3333" stroke="#38d9c5" stroke-width="1.6"/>
+      <text x="43" y="58" fill="#e6fffb" font-size="25" font-weight="800" text-anchor="middle">U</text>
+      <text x="86" y="46" fill="#f0f6fc" font-size="18" font-weight="700">UNREAL ENGINE</text>
+      <text x="86" y="68" fill="#71879d" font-size="10" font-weight="700" letter-spacing="1.5">HIGH-END REAL-TIME</text>
+      <text x="20" y="105" fill="#9bb0c2" font-size="12">Rendering · gameplay · production</text>
+    </g>
+    <g transform="translate(818 91)">
+      <rect width="310" height="126" rx="16" fill="#0a1726" stroke="#3d4e79"/>
+      <g transform="translate(20 26)" fill="none" stroke="#9d91ff" stroke-width="1.6"><path d="M23 0l22 12v25L23 49 1 37V12zM23 0v25M1 12l22 13 22-13M23 25v24"/></g>
+      <text x="86" y="46" fill="#f0f6fc" font-size="20" font-weight="700">UNITY</text>
+      <text x="86" y="68" fill="#71879d" font-size="10" font-weight="700" letter-spacing="1.7">RAPID ITERATION</text>
+      <text x="20" y="105" fill="#9bb0c2" font-size="12">Prototyping · tools · interaction</text>
+    </g>
+    <text x="600" y="257" fill="#7f97aa" font-size="12" font-style="italic" text-anchor="middle" letter-spacing="1">DEVELOPING HIGH-END GRAPHICS &amp; RESPONSIVE GAMEPLAY MECHANICS</text>
+  </g>
+</svg>

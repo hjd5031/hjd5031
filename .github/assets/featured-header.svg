@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="175" viewBox="0 0 1200 175" role="img" aria-labelledby="title desc">
+  <title id="title">Featured work</title><desc id="desc">Seven selected projects across graphics, rendering, and computer vision.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050b14"/><stop offset=".55" stop-color="#0b1f36"/><stop offset="1" stop-color="#07101d"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#38d9c5"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#58a6ff" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="175" rx="24" fill="url(#bg)"/><rect width="1200" height="175" rx="24" fill="url(#grid)"/>
+  <path d="M720 174L865 48M820 174L929 48M920 174L993 48M1020 174L1057 48M1120 174L1121 48" stroke="#58a6ff" stroke-opacity=".12"/>
+  <path d="M692 128H1160M742 98H1160M792 68H1160" stroke="#38d9c5" stroke-opacity=".12"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="62" y="52" fill="#58a6ff" font-size="12" font-weight="700" letter-spacing="4">03 / SELECTED WORK</text>
+    <text x="60" y="105" fill="#f0f6fc" font-size="38" font-weight="750">FEATURED PROJECTS</text>
+    <rect x="62" y="126" width="280" height="3" rx="2" fill="url(#accent)"/>
+    <text x="378" y="132" fill="#71879d" font-size="12" letter-spacing="1.8">07 PROJECTS · 02 LABORATORIES</text>
+    <text x="1135" y="35" fill="#38d9c5" font-size="10" font-weight="700" text-anchor="end" letter-spacing="2">PORTFOLIO INDEX</text>
+    <text x="1135" y="145" fill="#45637b" font-size="32" font-weight="800" text-anchor="end">07</text>
+  </g>
+</svg>
