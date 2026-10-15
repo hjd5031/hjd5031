@@ -158,7 +158,7 @@
   <picture><img src="./.github/assets/channel-personal.svg" width="100%" alt="Personal channels" /></picture>
   <br /><br />
   <a href="mailto:hjd01034215031@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=58A6FF" alt="Email Jaedong" /></a>
-  <a href="https://www.linkedin.com/in/jae-dong-hwang-67198b382"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38D9C5" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jaedong-hwang-67198b382/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38D9C5" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/channel/UCSWO0PIilr8vM8QEkz2buFg"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&amp;logo=youtube&amp;logoColor=58A6FF" alt="YouTube" /></a>
   <a href="https://velog.io/@hjd5031/posts"><img src="https://img.shields.io/badge/Velog-0d1117?style=for-the-badge&amp;logo=velog&amp;logoColor=38D9C5" alt="Velog" /></a>
   <a href="https://music.apple.com/profile/hjd5031"><img src="https://img.shields.io/badge/Apple%20Music-0d1117?style=for-the-badge&amp;logo=applemusic&amp;logoColor=58A6FF" alt="Apple Music" /></a>
